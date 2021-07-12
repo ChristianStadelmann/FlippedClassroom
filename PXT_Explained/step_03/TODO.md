@@ -24,7 +24,7 @@ error message you get.
 -   Which is it?
 
 **NOTE:**\
-Including a secondary had a file into the primary header
+Including a secondary header file into the primary header
 that needs it, makes that primary header idempotent.
 
 #### One problem solved, a new one created?
